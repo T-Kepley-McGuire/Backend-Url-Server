@@ -35,4 +35,4 @@ No database is used. All data is saved in-memory, meaning any changes are erased
 
 1. Fork and Clone Repository
 2. Open terminal at local repo
-3. run ```npm install``` and ```npm start```
+3. run ```npm install``` and ```npm run start:dev``` to start a nodemon server or ```npm start``` to start node server
